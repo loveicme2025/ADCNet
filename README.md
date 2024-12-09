@@ -22,11 +22,6 @@ The challenges:
 
 Illustrates the overall architecture of ADCNet, which mainly consists of Dual-Domain Guided Fusion Module and Adaptive Frequency-Domain Hybrid Attention Module. (a) The proposed Dual-Domain Guided Fusion Module (DGF), (b) the proposed Multi-Dimensional Feature Fusion Module (MDFF), and (c) the proposed Adaptive Frequency Selection Module(AFS).
 
-
-## 📆 TODO
-
-- [x] Release code
-
 ## 🎮 Getting Started
 
 ### 1. Install Environment
