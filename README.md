@@ -4,7 +4,7 @@
 
 ## 🎈 News
 
-- [2024.11.10] Training and inference code released
+- [2024.12.13] Training and inference code released
 
 ## 🚀 Introduction
 
