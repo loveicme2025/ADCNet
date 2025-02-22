@@ -27,8 +27,8 @@ Illustrates the overall architecture of ADCNet, which mainly consists of Dual-Do
 ### 1. Install Environment
 
 ```
-conda create -n ASCSeg python=3.8
-conda activate ASCSeg
+conda create -n ADCNet python=3.8
+conda activate ADCNet
 pip install torch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117
 pip install packaging
 pip install timm==0.4.12
