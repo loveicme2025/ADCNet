@@ -16,7 +16,7 @@ The challenges:
 ## 📻 Overview
 
 <div align="center">
-<img width="800" alt="image" src="asserts/ADCNet1.png?raw=true">
+<img width="800" alt="image" src="asserts/ADCNet1.PNG?raw=true">
 </div>
 
 
